@@ -1,0 +1,4 @@
+*.pyc
+lbl_web_crawler/venv
+*.suo
+
